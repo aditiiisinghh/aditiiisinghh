@@ -110,13 +110,17 @@
 </div>
 
 ---
-
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditiiisinghh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiisinghh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=aditiiisinghh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiisinghh&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+---
 
 ---
 
