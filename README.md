@@ -136,7 +136,7 @@
 ### Building scalable and user-focused web experiences through clean and impactful development.
 
 </div>
----
+
 
 <div align="center">
 
