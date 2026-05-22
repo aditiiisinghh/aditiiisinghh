@@ -103,17 +103,21 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284068-acc3b2f8-7c72-4a0f-b828-6e228b7e7f5.gif">
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284068-acc3b2f8-7c72-4a0f-b828-6e228b7e7f5.gif" width="400"/>
+
+</div>
+
+---
 
 # 📊 GitHub Stats  
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aditiiisinghh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditiiisinghh&theme=github_dark" width="48%"/>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiisinghh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditiiisinghh&theme=github_dark" width="48%"/>
 
 </div>
 
@@ -137,15 +141,14 @@
 
 </div>
 
+---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!  
+# 💙 Thanks for visiting my profile!
 
-⭐ Building • Learning • Growing 🚀
+### ⭐ Building • Learning • Growing 🚀
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
-
-
