@@ -113,13 +113,11 @@
 
 # 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditiiisinghh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiisinghh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aditiiisinghh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiisinghh&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-</div>
 ---
 
 # 📈 Contribution Activity  
