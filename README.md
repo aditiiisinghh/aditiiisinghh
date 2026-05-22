@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourlinkedin">
+<a href="https://www.linkedin.com/in/aditi-singh-59a7872b0" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -109,35 +109,27 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditiiisinghh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditiiisinghh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiisinghh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiisinghh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
-
 ---
 
-# 📈 Contribution Graph  
-
-[![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aditiiisinghh&theme=tokyo-night)](https://github.com/aditiiisinghh)
-
----
-
-# 🐍 Contribution Snake  
+# 📈 Contribution Activity  
 
 <div align="center">
 
-![snake gif](https://github.com/aditiiisinghh/aditiiisinghh/blob/output/github-contribution-grid-snake.svg)
+[![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aditiiisinghh&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true)](https://github.com/aditiiisinghh)
 
 </div>
-
 ---
 
-# ✨ Random Dev Quote  
+# ✨ Developer Philosophy  
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### Building scalable and user-focused web experiences through clean and impactful development.
 
 </div>
 
