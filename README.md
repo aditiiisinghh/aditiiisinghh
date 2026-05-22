@@ -109,11 +109,14 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditiiisinghh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aditiiisinghh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiisinghh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiisinghh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/>
 
 </div>
+
 ---
 
 # 📈 Contribution Activity  
@@ -123,6 +126,7 @@
 [![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aditiiisinghh&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true)](https://github.com/aditiiisinghh)
 
 </div>
+
 ---
 
 # ✨ Developer Philosophy  
@@ -132,7 +136,6 @@
 ### Building scalable and user-focused web experiences through clean and impactful development.
 
 </div>
-
 ---
 
 <div align="center">
