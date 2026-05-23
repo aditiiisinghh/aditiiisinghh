@@ -108,7 +108,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284068-acc3b2f8-7c72-4a0f-b828-6e228b7e7f5.gif" width="400"/>
 
 </div>
----
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -122,7 +123,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiiisinghh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
----
+
 
 # 📈 Contribution Activity  
 
